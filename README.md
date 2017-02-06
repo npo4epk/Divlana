@@ -1,7 +1,7 @@
 
-# "Apollo" - Landing page для мобильного приложения.
+# "Divlana" - Landing page для мобильного приложения.
 
-<p>Страница визитка фотографа</p>
+<p>Салон детской мебели</p>
 <p>Посмотреть на странице:</p>
 <p><a href="http://nikita-karpinskiy.esy.es/Divlana/" target="_blank">divlana.com</a></p>
 
